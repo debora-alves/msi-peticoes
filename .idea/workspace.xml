@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e134862-ba70-40a4-86bc-ef5e5e02c25e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Processamento/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeituraAvaaz.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Processamento/LeituraAvaaz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#leArquivoAvaaz#0;class#LeituraAvaaz#0" />
+                <element signature="method#leNomeArquivo#0;class#LeituraAvaaz#0" />
+                <element signature="method#identificaColunas#0;class#LeituraAvaaz#0" />
+                <element signature="method#leLinha#0;class#LeituraAvaaz#0" />
+                <element signature="method#verificaInteiro#0;class#LeituraAvaaz#0" />
+                <element signature="method#verificaDouble#0;class#LeituraAvaaz#0" />
+                <element signature="method#identificaTagsPeticao#0;class#LeituraAvaaz#0" />
+                <element signature="method#criaListaTags#0;class#LeituraAvaaz#0" />
+                <element signature="method#contemTag#0;class#LeituraAvaaz#0" />
+                <element signature="method#paisBrasil#0;class#LeituraAvaaz#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostgreSQLJDBC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dados/PostgreSQLJDBC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#populaBanco#0;class#PostgreSQLJDBC#0" />
+                <element signature="method#conectaBanco#0;class#PostgreSQLJDBC#0" />
+                <element signature="method#criaInsertPeticao#0;class#PostgreSQLJDBC#0" />
+                <element signature="method#criaInsertTag#0;class#PostgreSQLJDBC#0" />
+                <element signature="method#retornaIdPeticao#0;class#PostgreSQLJDBC#0" />
+                <element signature="method#criaInsertPeticaoTags#0;class#PostgreSQLJDBC#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>str</find>
+      <find>System</find>
+      <find>:</find>
+      <find>System.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\user\IdeaProjects\MSI-Peticoes</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Model/Petition.java" />
+        <option value="$PROJECT_DIR$/src/Model/User.java" />
+        <option value="$PROJECT_DIR$/src/Model/Tag.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/Processamento/LeituraChangeOrg.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/Tag.java" />
+        <option value="$PROJECT_DIR$/src/Modelo/Peticao.java" />
+        <option value="$PROJECT_DIR$/src/Dados/PostgreSQLJDBC.java" />
+        <option value="$PROJECT_DIR$/src/Processamento/LeituraAvaaz.java" />
+        <option value="$PROJECT_DIR$/src/Processamento/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MSI-Peticoes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MSI-Peticoes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MSI-Peticoes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MSI-Peticoes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MSI-Peticoes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MSI-Peticoes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Dados" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MSI-Peticoes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MSI-Peticoes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Modelo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MSI-Peticoes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MSI-Peticoes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Processamento" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/postgresql-42.2.2.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Processamento.Main" />
+      <module name="MSI-Peticoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Processamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e134862-ba70-40a4-86bc-ef5e5e02c25e" name="Default" comment="" />
+      <created>1524530703606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524530703606</updated>
+      <workItem from="1524530713573" duration="4670000" />
+      <workItem from="1525986064019" duration="10434000" />
+      <workItem from="1528934121807" duration="3122000" />
+      <workItem from="1529025498978" duration="16877000" />
+      <workItem from="1529183103322" duration="22505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57608000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49960968" weight="0.3298969" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5019516" side_tool="true" visible="true" weight="0.3298969" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980484" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="4" side_tool="true" weight="0.32943013" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Processamento/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Peticao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4454">
+          <caret line="262" column="9" selection-start-line="262" selection-start-column="9" selection-end-line="262" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5467#8622#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Processamento/LeituraAvaaz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#leArquivoAvaaz#0;class#LeituraAvaaz#0" />
+            <element signature="method#leNomeArquivo#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaColunas#0;class#LeituraAvaaz#0" />
+            <element signature="method#leLinha#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaInteiro#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaDouble#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaTagsPeticao#0;class#LeituraAvaaz#0" />
+            <element signature="method#criaListaTags#0;class#LeituraAvaaz#0" />
+            <element signature="method#contemTag#0;class#LeituraAvaaz#0" />
+            <element signature="method#paisBrasil#0;class#LeituraAvaaz#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Peticao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5467#8622#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Usuario.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Processamento/LeituraAvaaz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#leArquivoAvaaz#0;class#LeituraAvaaz#0" />
+            <element signature="method#leNomeArquivo#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaColunas#0;class#LeituraAvaaz#0" />
+            <element signature="method#leLinha#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaInteiro#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaDouble#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaTagsPeticao#0;class#LeituraAvaaz#0" />
+            <element signature="method#criaListaTags#0;class#LeituraAvaaz#0" />
+            <element signature="method#contemTag#0;class#LeituraAvaaz#0" />
+            <element signature="method#paisBrasil#0;class#LeituraAvaaz#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Peticao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5467#8622#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Usuario.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Processamento/LeituraAvaaz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4199">
+          <caret line="247" column="5" lean-forward="true" selection-start-line="247" selection-start-column="5" selection-end-line="247" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#leArquivoAvaaz#0;class#LeituraAvaaz#0" />
+            <element signature="method#leNomeArquivo#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaColunas#0;class#LeituraAvaaz#0" />
+            <element signature="method#leLinha#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaInteiro#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaDouble#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaTagsPeticao#0;class#LeituraAvaaz#0" />
+            <element signature="method#criaListaTags#0;class#LeituraAvaaz#0" />
+            <element signature="method#contemTag#0;class#LeituraAvaaz#0" />
+            <element signature="method#paisBrasil#0;class#LeituraAvaaz#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Peticao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5467#8622#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Usuario.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Processamento/LeituraAvaaz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#leArquivoAvaaz#0;class#LeituraAvaaz#0" />
+            <element signature="method#leNomeArquivo#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaColunas#0;class#LeituraAvaaz#0" />
+            <element signature="method#leLinha#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaInteiro#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaDouble#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaTagsPeticao#0;class#LeituraAvaaz#0" />
+            <element signature="method#criaListaTags#0;class#LeituraAvaaz#0" />
+            <element signature="method#contemTag#0;class#LeituraAvaaz#0" />
+            <element signature="method#paisBrasil#0;class#LeituraAvaaz#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Peticao.java" />
+    <entry file="file://$PROJECT_DIR$/src/Data.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Usuario.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Peticao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="209" column="65" selection-start-line="209" selection-start-column="65" selection-end-line="209" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5467#8622#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelo/Tag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dados/PostgreSQLJDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#populaBanco#0;class#PostgreSQLJDBC#0" />
+            <element signature="method#conectaBanco#0;class#PostgreSQLJDBC#0" />
+            <element signature="method#criaInsertPeticao#0;class#PostgreSQLJDBC#0" />
+            <element signature="method#criaInsertTag#0;class#PostgreSQLJDBC#0" />
+            <element signature="method#retornaIdPeticao#0;class#PostgreSQLJDBC#0" />
+            <element signature="method#criaInsertPeticaoTags#0;class#PostgreSQLJDBC#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Processamento/LeituraAvaaz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#leArquivoAvaaz#0;class#LeituraAvaaz#0" />
+            <element signature="method#leNomeArquivo#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaColunas#0;class#LeituraAvaaz#0" />
+            <element signature="method#leLinha#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaInteiro#0;class#LeituraAvaaz#0" />
+            <element signature="method#verificaDouble#0;class#LeituraAvaaz#0" />
+            <element signature="method#identificaTagsPeticao#0;class#LeituraAvaaz#0" />
+            <element signature="method#criaListaTags#0;class#LeituraAvaaz#0" />
+            <element signature="method#contemTag#0;class#LeituraAvaaz#0" />
+            <element signature="method#paisBrasil#0;class#LeituraAvaaz#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Processamento/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MSI-Peticoes</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>postgresql-42.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
